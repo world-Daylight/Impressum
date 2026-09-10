@@ -1,7 +1,7 @@
 
 <h2>Verantwortlich f&uuml;r den Inhalt nach &sect; 55 Abs. 2 RStV:</h2>
 
-<p>Paul WarVWorld <br />
+<p>Paul World Daylight <br />
 Deutschland</p>
 <p>&nbsp;</p>
 
@@ -35,7 +35,7 @@ Deutschland</p>
 
 <h2>Datenschutz</h2>
 
-<p>Die Betreiber dieser Seiten nehmen den Schutz Ihrer pers&ouml;nlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser <a href="https://warvworld.de/page/4-Datenschutzerklärung"><span style="color:#3498db">Datenschutzerkl&auml;rung</span></a>.</p>
+<p>Die Betreiber dieser Seiten nehmen den Schutz Ihrer pers&ouml;nlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser <a href="https://world-daylight.de/infos/index.php?page=datenschutz"><span style="color:#3498db">Datenschutzerkl&auml;rung</span></a>.</p>
 
 <p>Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten m&ouml;glich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies, soweit m&ouml;glich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdr&uuml;ckliche Zustimmung nicht an Dritte weitergegeben.</p>
 
